@@ -4,9 +4,13 @@ coverage
 docutils
 enum34
 flake8
+flake8-coding
 funcsigs
+isort
 mariadb-dyncol
+mccabe
 mock
+multilint
 mysqlclient
 nose-parameterized
 pbr
@@ -17,4 +21,6 @@ pytest
 pytest-django
 pytest-super-check
 six
+sphinx
+sphinx_rtd_theme
 sqlparse
